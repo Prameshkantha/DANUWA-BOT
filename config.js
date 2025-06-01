@@ -12,15 +12,15 @@ function convertToBool(text, fault = 'true') {
 
 
 const defaultConfig = {
-  SESSION_ID: "6BJmFJDI#W-pKZc8ZdS-O0Tcebj7JRx0Bwinrc2hqfi6STtmioD0", // Put your session id here
+  SESSION_ID: "XNgGBaJa#p4tqduLYJb2m-9IGp3-8pPxFqF51wHj5DbS9y9_206c", // Put your session id here
   ALIVE_IMG: "https://github.com/DANUWA-MD/DANUWA-BOT/blob/main/images/Danuwa%20-%20MD.png?raw=true",
   ALIVE_MSG: "*Hello👋 DANUWA-MD Is Alive Now😍*", // Change alive msg from here
   OPENAI_API_KEY: "",// Add OPENAI API key here
   GEMINI_API_KEY: "", // Add Gemini API key here
   REMOVE_BG_API_KEY:"", // Add removebg API key here
   WEATHER_API_KEY: "", // Add your weather API key here
-  BOT_OWNER: "94778404837", // Replace your bot owner number here with 94(country code)
-  ownerNumber: ["94778404837"], // Replace your bot owner number here (same as bot owner number)
+  BOT_OWNER: "94756851492", // Replace your bot owner number here with 94(country code)
+  ownerNumber: ["94756851492"], // Replace your bot owner number here (same as bot owner number)
   AUTO_READ_STATUS: "true", // Turn on or off auto read status from here
   MODE: "public", // 'private', 'public'
 };
